@@ -18,7 +18,7 @@ with st.sidebar:
     st.write(f"**Keras:** {keras.__version__}")
 
 st.title("✍️ El Mejor Detector de  Dígitos del 0-1 Escritos a Mano")
-st.markdown("**Modelo CNN entrenado en Google Colab con MNIST**")
+st.markdown("**Sistema 90% confiable**")
 
 # Cargar modelo
 @st.cache_resource
