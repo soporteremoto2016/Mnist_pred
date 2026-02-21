@@ -62,7 +62,7 @@ with col1:
     canvas_result = st_canvas(
         fill_color="black",
         stroke_width=20,
-        stroke_color="white",
+        stroke_color="red",
         background_color="blue",
         width=400,
         height=400,
