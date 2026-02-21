@@ -63,7 +63,7 @@ with col1:
         fill_color="black",
         stroke_width=20,
         stroke_color="white",
-        background_color="black",
+        background_color="blue",
         width=400,
         height=400,
         drawing_mode="freedraw",
