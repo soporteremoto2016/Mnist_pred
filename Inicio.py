@@ -7,7 +7,7 @@ from streamlit_drawable_canvas import st_canvas
 import os
 
 st.set_page_config(
-    page_title="Detector de Dígitos MNIST",
+    page_title="El mejor Detector de Dígitos MNIST",
     page_icon="✍️",
     layout="wide"
 )
@@ -17,7 +17,7 @@ with st.sidebar:
     st.write(f"**TensorFlow:** {tf.__version__}")
     st.write(f"**Keras:** {keras.__version__}")
 
-st.title("✍️ Detección de Dígitos Escritos a Mano")
+st.title("✍️ El Mejor Detector de  Dígitos del 0-1 Escritos a Mano")
 st.markdown("**Modelo CNN entrenado en Google Colab con MNIST**")
 
 # Cargar modelo
